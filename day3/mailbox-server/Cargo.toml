@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "redisish",
+    "mailbox",
+]
